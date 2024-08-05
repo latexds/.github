@@ -16,5 +16,5 @@ application with `application.commands` intents and some time to follow instruct
 [there](https://github.com/latexds/latexds)
 
 ## Contributing
-If you found bug or want to improve LaTeXDS, feel free to send either PR or issue on either bot's or
+If you found a bug or want to improve LaTeXDS, feel free to send either PR or issue on either bot's or
 site's repository
