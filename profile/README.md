@@ -3,9 +3,9 @@ LaTeXDS
 Bot that renders LaTeX in discord.
 
 ## Links
-- Install it for your user: [`https://latexds.nakidai.ru`](https://latexds.nakidai.ru)
-- Terms of Service: [`https://latexds.nakidai.ru/tos`](https://latexds.nakidai.ru/tos)  
-- Privacy Policy: [`https://latexds.nakidai.ru/privacy`](https://latexds.nakidai.ru/privacy)  
+- Install it for your user: [`https://latexds.pwn3t.ru`](https://latexds.pwn3t.ru)
+- Terms of Service: [`https://latexds.pwn3t.ru/tos`](https://latexds.pwn3t.ru/tos)  
+- Privacy Policy: [`https://latexds.pwn3t.ru/privacy`](https://latexds.pwn3t.ru/privacy)  
 
 ## Usage
 Command `/latex` will become available for you, which accepts an argument with your latex code.
